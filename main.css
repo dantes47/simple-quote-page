@@ -1,0 +1,31 @@
+html {
+    background: cover;
+    background-image: url('./assets/photo-1491555103944-7c647fd857e6.jpeg');
+    background-repeat: no-repeat;
+    background-color: gainsboro;
+}
+
+h2, p {
+    margin-bottom: 2rem;
+}
+
+h2, p{
+    text-align: center;
+    font-family: 'ZCOOL QingKe HuangYou';
+    font-weight: 400px;
+    color: steelblue;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 10%;
+    line-height: 70px;
+}
+
+p {
+    margin-top: 7rem;
+    padding-right: 25rem;
+    font-size: 18px;
+}
+
+
